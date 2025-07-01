@@ -1,0 +1,9 @@
+{
+  "name": "moment-layer",
+  "version": "1.0.0",
+  "description": "Lambda layer for moment date/time utilities",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}

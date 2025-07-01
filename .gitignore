@@ -1,0 +1,15 @@
+# Compiled JS files from TypeScript
+lib/**/*.js
+bin/**/*.js
+test/**/*.js
+*.d.ts
+node_modules
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+# Keep source JavaScript files for layers and lambdas
+!layers/**/*.js
+!lambda/**/*.js
+!jest.config.js
